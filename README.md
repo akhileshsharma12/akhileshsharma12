@@ -31,6 +31,6 @@
 </p>
 
 ### GitHub Stats:
-<p align="center">
+<p align="start">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=white&hide_border=false" alt="your-github-username" />
 </p>
