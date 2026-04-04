@@ -8,8 +8,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 - 🔭 I’m currently working on **Panchayat & Society Management Web App**
+  
 - 🌱 I’m currently learning **Next.js, Node.js, React and Angular**
+  
 - 📫 How to reach me **akhileshsh421@gmail.com**
+  
 - ⚡ Fun fact **I am a continuous learner**
 
 ### Connect with me:
@@ -37,5 +40,5 @@
 
 ### GitHub Stats:
 <p align="start">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=white&hide_border=false" alt="your-github-username" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=white&hide_border=false" alt="https://github.com/akhileshsharma12" />
 </p>
